@@ -56,7 +56,6 @@ namespace start_окно
         public MainWindow()
         {
             InitializeComponent(); 
-            //проверка работы
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
