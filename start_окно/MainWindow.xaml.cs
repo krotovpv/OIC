@@ -56,6 +56,7 @@ namespace start_окно
         public MainWindow()
         {
             InitializeComponent(); 
+            //hello word
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
