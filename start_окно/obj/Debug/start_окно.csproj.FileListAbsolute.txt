@@ -1,0 +1,958 @@
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\start_окно.exe
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\start_окно.pdb
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\MainWindow.baml
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\App.g.cs
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.exe
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.pdb
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\start_окно.exe
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\start_окно.pdb
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\MainWindow.baml
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\App.g.cs
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\start_окно.exe
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\start_окно.pdb
+E:\проекты\start_окно\start_окно\bin\Debug\start_окно.exe.config
+E:\проекты\start_окно\start_окно\bin\Debug\start_окно.exe
+E:\проекты\start_окно\start_окно\bin\Debug\start_окно.pdb
+E:\проекты\start_окно\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\проекты\start_окно\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+E:\проекты\start_окно\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\проекты\start_окно\start_окно\bin\Debug\System.Windows.Interactivity.dll
+E:\проекты\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\проекты\start_окно\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+E:\проекты\start_окно\start_окно\obj\Debug\MainWindow.baml
+E:\проекты\start_окно\start_окно\obj\Debug\MainWindow.g.cs
+E:\проекты\start_окно\start_окно\obj\Debug\App.g.cs
+E:\проекты\start_окно\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+E:\проекты\start_окно\start_окно\obj\Debug\start_окно.g.resources
+E:\проекты\start_окно\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+E:\проекты\start_окно\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+E:\проекты\start_окно\start_окно\obj\Debug\start_окно.exe
+E:\проекты\start_окно\start_окно\obj\Debug\start_окно.pdb
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\Петрович\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\App.baml
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\start_окно.exe
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\start_окно.pdb
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\MainWindow.baml
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\App.baml
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\App.g.cs
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.exe
+C:\Users\book\Documents\Visual Studio 2013\Projects\start_окно\start_окно\obj\Debug\start_окно.pdb
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\krotovpv\Desktop\start_окно\start_окно\obj\Debug\App.baml
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\start_окно.exe.config
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\start_окно.exe
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\start_окно.pdb
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\start_окно.exe
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\start_окно.pdb
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\System.Windows.Interactivity.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\MainWindow.baml
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\Simple Styles.baml
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\App.baml
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\MainWindow.g.cs
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\App.g.cs
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\start_окно.g.resources
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+E:\Program Files (x86)\Microsoft Visual Studio 12.0\Project\start_окно\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\start_окно.exe
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\start_окно.pdb
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\MainWindow.baml
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\App.baml
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\App.g.cs
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\start_окно.exe
+C:\Users\Pavel\Desktop\start_окно\start_окно\obj\Debug\start_окно.pdb
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.exe
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.pdb
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\start_окно.exe
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\start_окно.pdb
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\MainWindow.baml
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\App.baml
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\App.g.cs
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\getNagruzka.baml
+C:\Users\book\Desktop\123\start_окно\start_окно\obj\Debug\getNagruzka.g.cs
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.exe
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.pdb
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\start_окно.exe
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\start_окно.pdb
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\getNagruzka.baml
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\MainWindow.baml
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\App.baml
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\getNagruzka.g.cs
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\App.g.cs
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\krotovpv\Desktop\123\start_окно\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\start_окно.exe
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\start_окно.pdb
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\MainWindow.baml
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\App.baml
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\App.g.cs
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.exe
+C:\Users\Петрович\Desktop\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.pdb
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.exe
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.pdb
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\MainWindow.baml
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\App.baml
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\App.g.cs
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.exe
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.pdb
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\Protokol.baml
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_x_2.baml
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\Protokol.g.cs
+C:\Users\krotovpv\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_x_2.g.cs
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\start_окно.exe
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\start_окно.pdb
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\MainWindow.baml
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol.baml
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_x_2.baml
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\App.baml
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol.g.cs
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_x_2.g.cs
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\App.g.cs
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.exe
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.pdb
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.exe
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.pdb
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\MainWindow.baml
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_x_2.baml
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\App.baml
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_x_2.g.cs
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\App.g.cs
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.exe
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.pdb
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.exe
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\start_окно.pdb
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\MainWindow.baml
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_x_2.baml
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\App.baml
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_x_2.g.cs
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\App.g.cs
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.exe
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\start_окно.pdb
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_1.baml
+C:\Users\book\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_1.g.cs
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_1.baml
+C:\Users\Петрович\Desktop\start_окно_main\start_окно\obj\Debug\Protokol_1.g.cs
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\start_окно.exe.config
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\start_окно.exe
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\start_окно.pdb
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\MainWindow.baml
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_1.baml
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_x_2.baml
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\App.baml
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_1.g.cs
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_x_2.g.cs
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\App.g.cs
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.exe
+C:\Users\Петрович\Desktop\Проекты\ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.pdb
+D:\Проекты\start_окно_main\start_окно\bin\Debug\start_окно.exe.config
+D:\Проекты\start_окно_main\start_окно\bin\Debug\start_окно.exe
+D:\Проекты\start_окно_main\start_окно\bin\Debug\start_окно.pdb
+D:\Проекты\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\System.Windows.Interactivity.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+D:\Проекты\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
+D:\Проекты\start_окно_main\start_окно\obj\Debug\MainWindow.baml
+D:\Проекты\start_окно_main\start_окно\obj\Debug\Protokol_1.baml
+D:\Проекты\start_окно_main\start_окно\obj\Debug\Protokol_x_2.baml
+D:\Проекты\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
+D:\Проекты\start_окно_main\start_окно\obj\Debug\App.baml
+D:\Проекты\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
+D:\Проекты\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
+D:\Проекты\start_окно_main\start_окно\obj\Debug\Protokol_1.g.cs
+D:\Проекты\start_окно_main\start_окно\obj\Debug\Protokol_x_2.g.cs
+D:\Проекты\start_окно_main\start_окно\obj\Debug\App.g.cs
+D:\Проекты\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+D:\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
+D:\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+D:\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+D:\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.exe
+D:\Проекты\start_окно_main\start_окно\obj\Debug\start_окно.pdb
+D:\OIC\start_окно_main\start_окно\bin\Debug\start_окно.exe.config
+D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.exe
+D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.pdb
+D:\OIC\start_окно_main\start_окно\bin\Debug\start_окно.exe
+D:\OIC\start_окно_main\start_окно\bin\Debug\start_окно.pdb
+D:\OIC\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Effects.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\System.Windows.Interactivity.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
+D:\OIC\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
+D:\OIC\start_окно_main\start_окно\obj\Debug\MainWindow.baml
+D:\OIC\start_окно_main\start_окно\obj\Debug\Protokol_1.baml
+D:\OIC\start_окно_main\start_окно\obj\Debug\Protokol_x_2.baml
+D:\OIC\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
+D:\OIC\start_окно_main\start_окно\obj\Debug\App.baml
+D:\OIC\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
+D:\OIC\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
+D:\OIC\start_окно_main\start_окно\obj\Debug\Protokol_1.g.cs
+D:\OIC\start_окно_main\start_окно\obj\Debug\Protokol_x_2.g.cs
+D:\OIC\start_окно_main\start_окно\obj\Debug\App.g.cs
+D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
+D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
+D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
+D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache

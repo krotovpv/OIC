@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "start_окно", "start_окно\start_окно.csproj", "{cff051db-fe0b-46ab-8180-2d391a780f4e}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF051DB-FE0B-46AB-8180-2D391A780F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF051DB-FE0B-46AB-8180-2D391A780F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF051DB-FE0B-46AB-8180-2D391A780F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF051DB-FE0B-46AB-8180-2D391A780F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

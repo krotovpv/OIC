@@ -1,0 +1,151 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" x:Class="start_окно.Protokol_1"
+        Title="Протокол испытания по двум позициям" Height="750" Width="1340" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Window.Background>
+        <ImageBrush ImageSource="img/guma-tocak.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Viewbox Stretch="Uniform">
+        <StackPanel Height="1332" Width="2459" Name="TestProekt" VerticalAlignment="Top" Opacity="0.95">
+            <Rectangle x:Name="ramka1" RadiusY="54.833" RadiusX="54.833" Opacity="0.7" Fill="{DynamicResource LightColorBrush}" StrokeThickness="7" Height="921" HorizontalAlignment="Left" Width="1198" Margin="10,194,0,0">
+                <Rectangle.Stroke>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </Rectangle.Stroke>
+                <Rectangle.Effect>
+                    <DropShadowEffect ShadowDepth="12" Opacity="0.8" BlurRadius="3" Color="#FF717671"/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <Label x:Name="lbl_data" Content="Дата:" HorizontalAlignment="Left" Width="171.367" FontSize="45.333" FontWeight="Bold" FontStyle="Italic" Height="70" VerticalAlignment="Top" Margin="704,-839,0,0"/>
+            <TextBox x:Name="txt_data" TextWrapping="Wrap" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="42.667" Cursor="Pen" FontWeight="Bold" Opacity="0.9" HorizontalAlignment="Left" Width="185" Height="61" VerticalAlignment="Top" Margin="880,-831,0,0">
+            	<TextBox.BorderBrush>
+            		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            			<GradientStop Color="#FF303591" Offset="0.7"/>
+            			<GradientStop Color="White" Offset="1"/>
+            		</LinearGradientBrush>
+            	</TextBox.BorderBrush>
+            </TextBox>
+            <Path Data="M40,281 L633,281" Fill="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Height="5" Margin="64.874,-330,0,0" Stretch="Fill" StrokeThickness="3" VerticalAlignment="Top" HorizontalAlignment="Left" Width="1072.564">
+                <Path.Effect>
+                    <DropShadowEffect/>
+                </Path.Effect>
+                <Path.Stroke>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="White" Offset="0.233"/>
+                    </LinearGradientBrush>
+                </Path.Stroke>
+            </Path>
+            <TextBox x:Name="txt_protokol" TextWrapping="Wrap" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="42.667" Cursor="Pen" FontWeight="Bold" Opacity="0.9" HorizontalAlignment="Left" Width="185" Height="61" VerticalAlignment="Top" Margin="475,-831,0,0">
+                <TextBox.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF303591" Offset="0.7"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.BorderBrush>
+            </TextBox>
+            <Label x:Name="lbl_razmer_2" Content="Размер:" HorizontalAlignment="Left" Width="205.063" FontSize="45.333" FontWeight="Bold" FontStyle="Italic" Height="70" VerticalAlignment="Top" Margin="110,-688,0,0"/>
+            <TextBox x:Name="txt_razmer_2" TextWrapping="Wrap" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="40" Cursor="Pen" Opacity="0.9" Height="55" VerticalAlignment="Top" Margin="450,-676,1389,0">
+                <TextBox.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF303591" Offset="0.7"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.BorderBrush>
+            </TextBox>
+            <Label x:Name="lbl_model_2" Content="Модель:" HorizontalAlignment="Left" Width="205.063" FontSize="45.333" FontWeight="Bold" FontStyle="Italic" Height="70" VerticalAlignment="Top" Margin="110,-582,0,0"/>
+            <TextBox x:Name="txt_model_2" TextWrapping="Wrap" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="40" Cursor="Pen" Opacity="0.9" Height="55" VerticalAlignment="Top" Margin="450,-570,1389,0">
+                <TextBox.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF303591" Offset="0.7"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.BorderBrush>
+            </TextBox>
+            <Label x:Name="lbl_zavodskoy_nomer_2" Content="Заводской №:" HorizontalAlignment="Left" Width="329.938" FontSize="45.333" FontWeight="Bold" FontStyle="Italic" Height="70" VerticalAlignment="Top" Margin="110,-475,0,0"/>
+            <TextBox x:Name="txt_zavodskoy_nomer_2" TextWrapping="Wrap" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="40" Cursor="Pen" Opacity="0.9" Height="55" VerticalAlignment="Top" Margin="450,-464,1389,0">
+                <TextBox.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF303591" Offset="0.7"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.BorderBrush>
+            </TextBox>
+            <Label x:Name="lbl_ispytatel" Content="Испытатель:" HorizontalAlignment="Left" Width="354.081" FontSize="48" FontWeight="Bold" FontStyle="Italic" Height="70" VerticalAlignment="Top" Margin="70,-278,0,0"/>
+            <TextBox x:Name="txt_ispytatel" TextWrapping="Wrap" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="42.667" Cursor="Pen" FontWeight="Bold" Opacity="0.9" Height="61" VerticalAlignment="Top" Margin="450,-268,1389,0">
+                <TextBox.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF303591" Offset="0.7"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBox.BorderBrush>
+            </TextBox>
+            <Rectangle x:Name="ramka2" RadiusY="55.351" RadiusX="55.351" Opacity="0.7" Fill="{DynamicResource LightColorBrush}" StrokeThickness="7" Height="920.788" Margin="0,-921,10,0" HorizontalAlignment="Right" Width="1198">
+                <Rectangle.Stroke>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </Rectangle.Stroke>
+                <Rectangle.Effect>
+                    <DropShadowEffect ShadowDepth="12" Opacity="0.8" BlurRadius="3" Color="#FF717671"/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <DataGrid Height="795.5" Margin="1319,-910,68.624,0"/>
+            <Rectangle x:Name="ramka3" RadiusY="44.306" RadiusX="44.306" Opacity="0.7" Fill="{DynamicResource LightColorBrush}" StrokeThickness="7" Height="153.039" Margin="0,-2041,10,0" HorizontalAlignment="Right" Width="1198">
+                <Rectangle.Stroke>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </Rectangle.Stroke>
+                <Rectangle.Effect>
+                    <DropShadowEffect ShadowDepth="12" Opacity="0.8" BlurRadius="3" Color="#FF717671"/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <Label x:Name="lbl_imsh" Content="ИМШ-3(5)М" HorizontalAlignment="Left" Height="92.5" Margin="1333.562,-2034,0,0" Width="358.438" FontSize="58.667" FontWeight="Bold" FontStyle="Italic"/>
+            <Label x:Name="lbl_po_dvum_poziciyam" Content="Позиция №:" HorizontalAlignment="Left" Height="92.5" Margin="1970,-2034,0,0" Width="436.402" FontSize="53.333" FontWeight="Bold"/>
+            <Button x:Name="btn_nazad" Content="Назад" Height="93.888" Margin="65,52,0,0" FontSize="40" FontStyle="Italic" BorderThickness="1" Opacity="0.9" HorizontalAlignment="Left" Width="359.207" BorderBrush="Black" Cursor="Hand" Background="{DynamicResource MouseOverBrush}"/>
+            <Button x:Name="btn_dalee" Content="Далее" Height="93.888" Margin="0,-92,65,0" FontSize="40" FontStyle="Italic" BorderThickness="1" HorizontalAlignment="Right" Width="359.207" Opacity="0.9" BorderBrush="Black" Cursor="Hand" Background="{DynamicResource MouseOverBrush}"/>
+            <Rectangle x:Name="ramka3_Copy" RadiusY="44.306" RadiusX="44.306" Opacity="0.7" Fill="{DynamicResource LightColorBrush}" StrokeThickness="7" Height="153.039" Margin="0,-121,10,0" HorizontalAlignment="Right" Width="1198" Panel.ZIndex="-1">
+                <Rectangle.Stroke>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </Rectangle.Stroke>
+                <Rectangle.Effect>
+                    <DropShadowEffect ShadowDepth="12" Opacity="0.8" BlurRadius="3" Color="#FF717671"/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <Rectangle x:Name="ramka3_Copy1" RadiusY="44.306" RadiusX="44.306" Opacity="0.7" Fill="{DynamicResource LightColorBrush}" StrokeThickness="7" Height="153.039" Margin="0,-153,1246,0" HorizontalAlignment="Right" Width="1198" Panel.ZIndex="-1">
+                <Rectangle.Stroke>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="White"/>
+                    </LinearGradientBrush>
+                </Rectangle.Stroke>
+                <Rectangle.Effect>
+                    <DropShadowEffect ShadowDepth="12" Opacity="0.8" BlurRadius="3" Color="#FF717671"/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <Label x:Name="lbl_razmer_2_Copy" Content="Протокол №:" HorizontalAlignment="Left" Width="329.938" FontSize="45.333" FontWeight="Bold" FontStyle="Italic" Height="70" VerticalAlignment="Top" Margin="110,-1019,0,0"/>
+            <Rectangle x:Name="ramka3_Copy2" RadiusY="44.306" RadiusX="44.306" Opacity="0.7" Fill="{DynamicResource LightColorBrush}" StrokeThickness="7" Height="153.039" Margin="0,-2404,1246,0" HorizontalAlignment="Right" Width="1198" Panel.ZIndex="-1">
+            	<Rectangle.Stroke>
+            		<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            			<GradientStop Color="Black" Offset="1"/>
+            			<GradientStop Color="White"/>
+            		</LinearGradientBrush>
+            	</Rectangle.Stroke>
+            	<Rectangle.Effect>
+            		<DropShadowEffect ShadowDepth="12" Opacity="0.8" BlurRadius="3" Color="#FF717671"/>
+            	</Rectangle.Effect>
+            </Rectangle>
+            <Button x:Name="btn_biblioteka" Content="Библиотека" Height="93.888" Margin="1321,-155,0,0" FontSize="40" FontStyle="Italic" BorderThickness="1" Opacity="0.9" HorizontalAlignment="Left" Width="359.207" BorderBrush="Black" Cursor="Hand" Background="{DynamicResource MouseOverBrush}"/>
+            <Image Height="112.571" Margin="53.429,-2400,1283.214,0" Source="img/logo_81.jpg" Stretch="Fill" Opacity="0.25"/>
+        </StackPanel>
+    </Viewbox>
+</Window>
