@@ -626,13 +626,11 @@ C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_о
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно.csprojResolveAssemblyReference.cache
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\getNagruzka.baml
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\MainWindow.baml
-C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol.baml
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_x_2.baml
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Simple Styles.baml
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\App.baml
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\getNagruzka.g.cs
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\MainWindow.g.cs
-C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol.g.cs
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_x_2.g.cs
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\App.g.cs
 C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile.cache
@@ -956,3 +954,5 @@ D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно_MarkupCompile
 D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.g.resources
 D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.Properties.Resources.resources
 D:\OIC\start_окно_main\start_окно\obj\Debug\start_окно.csproj.GenerateResource.Cache
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_1.baml
+C:\Users\krotovpv\Desktop\Документы ОИЦ\start_окно_main\start_окно\obj\Debug\Protokol_1.g.cs

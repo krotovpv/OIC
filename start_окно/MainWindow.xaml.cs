@@ -67,7 +67,7 @@ namespace start_окно
             settingComPort();
 
             //открываем порт
-            serialPortOpen(comboPortName.SelectedItem.ToString(), Convert.ToInt32(comboPortSpeed.SelectedItem));
+            //serialPortOpen(comboPortName.SelectedItem.ToString(), Convert.ToInt32(comboPortSpeed.SelectedItem));
 
             //после открытия порта приступаем к опросу стенда в потоке
             //System.Threading.Thread cycleOpros = new System.Threading.Thread(serialPortTransmitCycleStart);
